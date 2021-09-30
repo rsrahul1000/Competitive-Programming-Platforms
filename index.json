@@ -4,7 +4,7 @@
         "Website":"HackkerRank", 
         "level":"beginner",
         "Interviev_prepations":"Begineer",
-        "websitelink":"https://www.hackerrank.com/dashboard"
+        "website_link":"https://www.hackerrank.com/dashboard"
          
     },
 {
@@ -12,11 +12,8 @@
         "Website":"HackerEarth",
         "level":"Beginner",
         "interviev_prepations":"advance",
-      "Websitelink":"https://www.hackerearth.com/for-developers",
-        
-         
+      "website_link":"https://www.hackerearth.com/for-developers",  
     },
-
 {
         "id":"3",
         "Website":"Codeforces", 
@@ -24,18 +21,13 @@
         "interviev_prepations":"",
         "Website" : "https://codeforces.com/",
         "website_link":"http://codeforces.com/"
-        
-         
     },
-
     {
         "id":"4",
         "Website":"Exercism", 
         "level":"beginner",
         "interviev_prepations":"",
         "website_link":"https://exercism.org/",
-        
-         
     },
     {
         "id":"10",
@@ -45,5 +37,11 @@
         "website_link":"https://leetcode.com/",
         
          
+    }
+        "id":"5",
+        "Website":"Codeacademy", 
+        "level":"beginner",
+        "interviev_prepations":"",
+        "website_link":"https://www.codecademy.com/",
     }
   ]
