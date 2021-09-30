@@ -1,1 +1,1 @@
-# Competitive-Programming-Platforms
+# Compitative_Programming_Platforms
