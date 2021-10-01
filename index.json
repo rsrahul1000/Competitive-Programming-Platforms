@@ -97,10 +97,11 @@
     },
     {
         "id":10,
-        "Website":"Codewars", 
+        "Website":"Codechef", 
         "level":"beginner",
         "Interviev_prepations":"",
-    	"website_link":"https://www.codewars.com/" 
+    	"website_link":"https://www.codechef.com/problems/INTEST"
+
     }, 
   {
         "id":11,
