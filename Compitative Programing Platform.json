@@ -63,5 +63,13 @@
         "level":"intermediate",
         "Interviev_prepations":"advance",
     	"websitelink":"https://binarysearch.com/"
+    },
+    
+    {
+        "id":"8",
+        "Website":"Codechef", 
+        "level":"beginner",
+        "Interviev_prepations":"",
+    	"websitelink":"https://www.codechef.com/problems/HS08TEST"
     }
 ]
