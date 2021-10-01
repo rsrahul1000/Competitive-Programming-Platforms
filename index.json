@@ -143,6 +143,15 @@
         "level":"Beginner",
         "interviev_prepations":"Moderate",
         "website_link":"https://www.codewars.com/"
+    }, 
+    {
         
+        "id":18,
+        "Website":"LeetCode",
+        "level":"Beginner",
+        "interviev_prepations":"Moderate",
+        "website_link":"https://leetcode.com"
+    }
+
 
 ]
