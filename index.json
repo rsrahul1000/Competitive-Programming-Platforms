@@ -112,5 +112,15 @@
     	"website_link":"https://leetcode.com/" 
 
 
+    }, 
+  {
+        "id":12,
+        "Website":"Edabit", 
+        "level":"All levels",
+        "Interviev_prepations":"",
+    	"website_link":"https://edabit.com/" 
+
+
     }
+    
 ]
