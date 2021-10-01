@@ -101,6 +101,13 @@
         "level":"beginner",
         "Interviev_prepations":"",
     	"website_link":"https://www.codewars.com/" 
-    
+    }, 
+  {
+        "id":11,
+        "Website":"LeetCode", 
+        "level":"beginner",
+        "Interviev_prepations":"",
+    	"website_link":"https://leetcode.com/" 
+
     }
 ]
