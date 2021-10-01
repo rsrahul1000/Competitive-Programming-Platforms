@@ -101,5 +101,14 @@
         "level":"beginner",
         "Interviev_prepations":"",
     	"website_link":"https://www.codechef.com/problems/INTEST"
+
+    }, 
+  {
+        "id":11,
+        "Website":"LeetCode", 
+        "level":"beginner",
+        "Interviev_prepations":"",
+    	"website_link":"https://leetcode.com/" 
+
     }
 ]
