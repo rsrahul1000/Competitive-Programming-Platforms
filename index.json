@@ -1,29 +1,35 @@
 [
-   {
-        "id":"0",
+    {
+        "id":0,
         "Website":"HackkerRank", 
         "level":"beginner",
         "interview_preparations":"Begineer",
         "website_link":"https://www.hackerrank.com/dashboard"
          
     },
-{
-        "id":"1",
+    {
+        "id":1,
         "Website":"HackerEarth",
         "level":"Beginner",
-        "interview_preparations":"advance",
+        "interviev_prepations":"advance",
       "website_link":"https://www.hackerearth.com/for-developers"
     },
+    {
+        "id":2,
+        "Website":"Codechef", 
+        "level":"advance",
+        "interviev_preparations":"Advance",  
+        "website_link":"https://www.codechef.com/"
+     },
 {
         "id":"3",
         "Website":"Codeforces", 
         "level":"advance",
         "interview_preparations":"",
-        "Website" : "https://codeforces.com/",
         "website_link":"http://codeforces.com/"
     },
     {
-        "id":"4",
+        "id":4,
         "Website":"Exercism", 
         "level":"beginner",
         "interview_preparations":"",
@@ -37,17 +43,20 @@
         "website_link":"https://leetcode.com/"
     },
     {
-        "id":"6",
-        "Website":"Codechef", 
-        "level":"advance",
-        "interview_preparations":"advance",
-        "website_link":"https://www.codechef.com/",
-    },
-    }
-        "id":"7",
-        "Website":"Codeacademy", 
+        "id":6,
+        "Website":"SPOJ", 
         "level":"beginner",
-        "interview_preparations":"",
-        "website_link":"https://www.codecademy.com/",
+        "Interviev_prepations":"",
+        "contest":"Beginner",
+       "website_link" : "https://www.spoj.com/", 
+         
+    },
+
+    {
+        "id":7,
+        "Website":"TopCoder Challenges", 
+        "level":"beginner",
+        "Interviev_prepations":"",
+    	"website_link":"https://www.topcoder.com/challenges" 
     }
-  ]
+]
