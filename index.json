@@ -94,5 +94,13 @@
         "level":"beginner",
         "Interviev_prepations":"",
     	"website_link":"https://www.coderbyte.com/" 
+    },
+    {
+        "id":10,
+        "Website":"Codewars", 
+        "level":"beginner",
+        "Interviev_prepations":"",
+    	"website_link":"https://www.codewars.com/" 
+    
     }
 ]
