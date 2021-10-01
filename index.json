@@ -94,11 +94,12 @@
         "level":"beginner",
         "Interviev_prepations":"",
     	"website_link":"https://www.coderbyte.com/" 
-    }, {
+    },
+    {
         "id":10,
-        "Website":"LeetCode", 
+        "Website":"Codechef", 
         "level":"beginner",
         "Interviev_prepations":"",
-    	"website_link":"https://leetcode.com/" 
+    	"website_link":"https://www.codechef.com/problems/INTEST"
     }
 ]
