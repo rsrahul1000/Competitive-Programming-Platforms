@@ -39,8 +39,9 @@
         "id":"7",
         "Website":"GeeksForGeeks", 
         "level":"Beginner/Intermediate",
-        "interviev_prepations":"",
-        "website_link":"https://practice.geeksforgeeks.org/",
+        "interviev_preparations":"",
+        "website_link":"https://practice.geeksforgeeks.org/"
+
     },
    
     {
@@ -56,11 +57,10 @@
         "level":"beginner",
         "Interviev_prepations":"",
         "contest":"Beginner",
-       "website_link" : "https://www.spoj.com/", 
+       "website_link" : "https://www.spoj.com/"
          
     },
-
-    {
+  {
         "id":7,
         "Website":"project euler", 
         "level":"beginner",
@@ -68,8 +68,27 @@
         "website_link" : "https://projecteuler.net/", 
     },
 
-    {
+
+   {
+   
         "id":8,
+        "Website":"Codeacademy", 
+        "level":"beginner",
+        "interviev_preparations":"",
+        "website_link":"https://www.codecademy.com/"
+    },
+   {
+   
+        "id":9,
+        "Website":"InterviewBit", 
+        "level":"all levels beginner, intermediate, advanced",
+        "interviev_preparations":"all levels",
+        "website_link":"https://www.interviewbit.com/practice/"
+   },
+
+    
+    {
+        "id":10,
         "Website":"HackkerRank", 
         "level":"beginner",
         "interview_preparations":"Begineer",
@@ -78,27 +97,35 @@
     },
     {
 
-        "id":9,
+        "id":11,
         "Website":"Codechef", 
         "level":"beginner",
         "Interviev_prepations":"",
     	"website_link":"https://www.codechef.com/problems/INTEST"
 
     }, 
-  {        "id":10,
+  {        "id":12,
         "Website":"LeetCode", 
         "level":"beginner",
         "Interviev_prepations":"",
     	"website_link":"https://leetcode.com/" 
 
-    },
+    }, 
   {
-        "id":11,
+        "id":13,
+        "Website":"Edabit", 
+        "level":"All levels",
+        "Interviev_prepations":"",
+    	"website_link":"https://edabit.com/"     
+
+    },
+  
+  {
+        "id":14,
         "Website":"GreekforGreeks",
         "level":"Beginner",
         "interviev_prepations":"advance",
       "website_link":"https://www.geeksforgeeks.org/c-programming-language/"
     }
-
 
 ]
