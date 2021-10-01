@@ -22,7 +22,7 @@
         "website_link":"https://www.codechef.com/"
      },
 {
-        "id":"3",
+        "id":3,
         "Website":"Codeforces", 
         "level":"advance",
         "interview_preparations":"",
@@ -36,39 +36,30 @@
         "website_link":"https://exercism.org/"
     },
    {
-        "id":"7",
+        "id":5,
         "Website":"GeeksForGeeks", 
         "level":"Beginner/Intermediate",
         "interviev_preparations":"",
         "website_link":"https://practice.geeksforgeeks.org/"
-
     },
    
     {
-        "id":"5",
+        "id":6,
         "Website":"Leetcode", 
         "level":"beginner",
         "interview_preparations":"",
-        "website_link":"https://leetcode.com/",
+        "website_link":"https://leetcode.com/"
     },
     {
-        "id":6,
+        "id":7,
         "Website":"SPOJ", 
         "level":"beginner",
-        "Interviev_prepations":"",
+        "Interviev_preparations":"",
         "contest":"Beginner",
        "website_link" : "https://www.spoj.com/"
          
     },
-  {
-        "id":7,
-        "Website":"project euler", 
-        "level":"beginner",
-        "contest":"Beginner",
-        "website_link" : "https://projecteuler.net/", 
-    },
-
-
+       
    {
    
         "id":8,
@@ -91,12 +82,11 @@
         "id":10,
         "Website":"HackkerRank", 
         "level":"beginner",
-        "interview_preparations":"Begineer",
-        "website_link":"https://www.hackerrank.com/dashboard"
-         
-    },
+        "Interviev_prepations":"",
+    	"website_link":"https://atcoder.jp/" 
+     },
+      
     {
-
         "id":11,
         "Website":"Codechef", 
         "level":"beginner",
@@ -104,13 +94,15 @@
     	"website_link":"https://www.codechef.com/problems/INTEST"
 
     }, 
-  {        "id":12,
-        "Website":"LeetCode", 
-        "level":"beginner",
-        "Interviev_prepations":"",
-    	"website_link":"https://leetcode.com/" 
+    
+    {
+        "id":12,
+        "Website":"Pepcoding", 
+        "level":"Advance",
+        "interview_preparations":"Advance",
+        "website_link":"https://www.pepcoding.com/"   
+    },
 
-    }, 
   {
         "id":13,
         "Website":"Edabit", 
@@ -135,5 +127,6 @@
       "website_link":"https://www.geeksforgeeks.org/c-programming-language/"
 
     }
+
 
 ]
