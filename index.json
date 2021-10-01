@@ -62,7 +62,7 @@
 
     {
         "id":7,
-        "Website":project euler", 
+        "Website":"project euler", 
         "level":"beginner",
         "contest":"Beginner",
         "website_link" : "https://projecteuler.net/", 
@@ -76,4 +76,29 @@
         "website_link":"https://www.hackerrank.com/dashboard"
          
     },
+    {
+
+        "id":9,
+        "Website":"Codechef", 
+        "level":"beginner",
+        "Interviev_prepations":"",
+    	"website_link":"https://www.codechef.com/problems/INTEST"
+
+    }, 
+  {        "id":10,
+        "Website":"LeetCode", 
+        "level":"beginner",
+        "Interviev_prepations":"",
+    	"website_link":"https://leetcode.com/" 
+
+    },
+  {
+        "id":11,
+        "Website":"GreekforGreeks",
+        "level":"Beginner",
+        "interviev_prepations":"advance",
+      "website_link":"https://www.geeksforgeeks.org/c-programming-language/"
+    }
+
+
 ]
