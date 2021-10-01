@@ -96,10 +96,21 @@
     	"website_link":"https://www.coderbyte.com/" 
     },
     {
-        "id":13,
-        "Website":"Codewars", 
-        "level":"Moderate",
-        "Interviev_prepations":"all level",
-    	"website_link":"https://www.codewars.com/" 
+
+        "id":10,
+        "Website":"Codechef", 
+        "level":"beginner",
+        "Interviev_prepations":"",
+    	"website_link":"https://www.codechef.com/problems/INTEST"
+
+    }, 
+  {
+        "id":11,
+        "Website":"LeetCode", 
+        "level":"beginner",
+        "Interviev_prepations":"",
+    	"website_link":"https://leetcode.com/" 
+
+
     }
 ]
