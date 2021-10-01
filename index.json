@@ -35,6 +35,14 @@
         "interview_preparations":"",
         "website_link":"https://exercism.org/"
     },
+   {
+        "id":"7",
+        "Website":"GeeksForGeeks", 
+        "level":"Beginner/Intermediate",
+        "interviev_prepations":"",
+        "website_link":"https://practice.geeksforgeeks.org/",
+    },
+   
     {
         "id":"5",
         "Website":"Leetcode", 
