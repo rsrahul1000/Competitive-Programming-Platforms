@@ -126,7 +126,15 @@
         "interviev_prepations":"advance",
       "website_link":"https://www.geeksforgeeks.org/c-programming-language/"
 
-    }
+    },
+    
+{
+        "id":16,
+        "Website":"geektastic",
+        "level":"Beginner",
+        "interviev_prepations":"Moderate",
+        "website_link":"https://geektastic.com/"
 
+    }
 
 ]
