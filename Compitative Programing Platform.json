@@ -54,22 +54,20 @@
         "Website":"TopCoder Challenges", 
         "level":"beginner",
         "Interviev_prepations":"",
-    	"websitelink":"https://www.topcoder.com/challenges"
+        "website_link":"https://www.topcoder.com/challenges"
     },
-
     {
         "id":"7",
+        "Website":"Leetcode", 
+        "level":"beginner",
+        "Interviev_prepations":"Advance",
+    	"website_link":"https://leetcode.com/"
+    },
+  {
+    "id":"8",
         "Website":"Binary Search", 
         "level":"intermediate",
         "Interviev_prepations":"advance",
     	"websitelink":"https://binarysearch.com/"
-    },
-    
-    {
-        "id":"8",
-        "Website":"Codechef", 
-        "level":"beginner",
-        "Interviev_prepations":"",
-    	"websitelink":"https://www.codechef.com/problems/HS08TEST"
     }
 ]
