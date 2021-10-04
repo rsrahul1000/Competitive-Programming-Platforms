@@ -151,9 +151,17 @@
         "level":"Beginner",
         "interviev_prepations":"Moderate",
         "website_link":"https://leetcode.com"
-    }
+    },
     {
         "id":19,
+        "Website":"SPOJ", 
+        "level":"beginner",
+        "Interviev_preparations":"",
+        "contest":"Beginner",
+       "website_link" : "https://www.spoj.com/"
+    },
+    {
+        "id":20,
         "Website":"HackkerRank", 
         "level":"Moderate",
         "interview_preparations":"Moderate",
