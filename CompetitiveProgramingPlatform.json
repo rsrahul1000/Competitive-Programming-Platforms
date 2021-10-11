@@ -70,4 +70,12 @@
         "Interviev_prepations":"advance",
     	"websitelink":"https://binarysearch.com/"
     }
+    
+     {
+    "id":"9",
+        "Website":"Exercism.io", 
+        "level":"intermediate",
+        "Interviev_prepations":"advance",
+    	"websitelink":"https://exercism.org/"
+    }
 ]
