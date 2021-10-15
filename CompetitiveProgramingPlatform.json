@@ -69,9 +69,16 @@
         "level":"intermediate",
         "Interviev_prepations":"advance",
     	"websitelink":"https://binarysearch.com/"
-    }
-    {
+    },
+     {
     "id":"9",
+        "Website":"Exercism.io", 
+        "level":"intermediate",
+        "Interviev_prepations":"advance",
+    	"websitelink":"https://exercism.org/"
+     },
+    {
+    "id":"10",
         "Website":"Atcoder", 
         "level":"advance",
         "Interviev_prepations":"advance",
