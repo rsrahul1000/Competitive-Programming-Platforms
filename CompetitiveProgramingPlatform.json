@@ -105,4 +105,12 @@
         "Interviev_prepations":"Advance",
     	"websitelink":"https://coderbyte.com/"
     }
+     {
+        "id":"11",
+        "Website":"Coding Ninjas", 
+        "level":"beginner",
+        "Interviev_prepations":"Begineer",
+        "websitelink":"https://www.codingninjas.com/"
+
+    },
 ]
