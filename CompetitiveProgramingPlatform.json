@@ -138,5 +138,12 @@
     "level": "beginner",
     "Interviev_prepations": "advanced",
     "websitelink": "https://codegym.cc/"
-  }
+  },
+  {
+    "id": "19",
+    "Website": "work@tech",
+    "level": "All Levels",
+    "Interviev_prepations": "advanced",
+    "websitelink": "https://workat.tech/"
+  },
 ]
