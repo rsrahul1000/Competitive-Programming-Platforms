@@ -84,4 +84,12 @@
         "Interviev_prepations":"advance",
     	"websitelink":"https://atcoder.jp/"
     }
+     {
+        "id":"11",
+        "Website":"Coding Ninjas", 
+        "level":"beginner",
+        "Interviev_prepations":"Begineer",
+        "websitelink":"https://www.codingninjas.com/"
+
+    },
 ]
