@@ -66,7 +66,7 @@
   {
     "id":"8",
         "Website":"Binary Search", 
-        "level":"intermediate",
+        "level":"Beginner-intermediate",
         "Interviev_prepations":"advance",
     	"websitelink":"https://binarysearch.com/"
     },
@@ -83,5 +83,54 @@
         "level":"advance",
         "Interviev_prepations":"advance",
     	"websitelink":"https://atcoder.jp/"
-    }
+    },
+    {
+    "id":"15",
+        "Website":"CSES", 
+        "level":"intermediate",
+        "Interviev_prepations":"advance",
+    	"websitelink":"https://cses.fi/problemset/"
+    },   
+{
+    "id":"11",
+        "Website":"codestudio powered by Coding Ninja", 
+        "level":"beginner",
+        "Interviev_prepations":"advance",
+    	"websitelink":"https://www.codingninjas.com/codestudio"
+},
+   {
+    "id":"11",
+        "Website":"Coderbyte", 
+        "level":"Beginner-Advance",
+        "Interviev_prepations":"Advance",
+    	"websitelink":"https://coderbyte.com/"
+    },
+        {
+    "id":"11",
+        "Website":"Codewars", 
+        "level":"advance",
+        "Interviev_prepations":"advance",
+    	"websitelink":"https://www.codewars.com/collections/codewars-problems
+    },
+     {
+        "id":"11",
+        "Website":"Coding Ninjas", 
+        "level":"beginner",
+        "Interviev_prepations":"Begineer",
+        "websitelink":"https://www.codingninjas.com/"
+    },
+    {
+        "id":"11",
+        "Website":"GeeksforGeeks", 
+        "level":"beginner",
+        "Interviev_prepations":"Advance",
+        "websitelink":"https://www.geeksforgeeks.org/"
+    },
+   {
+    "id":"11",
+        "Website":"ICPC", 
+        "level":"advanced",
+        "Interviev_prepations":"advanced",
+    	"websitelink":"https://icpc.global/"
+    } 
 ]

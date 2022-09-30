@@ -191,7 +191,7 @@
         "interview_preparations":"Moderate",
         "website_link":"https://www.hackerrank.com"
          
-    }
+    },
      {
         "id":24,
         "Website":"codeforces", 
@@ -207,4 +207,50 @@
     "interview_preparation":"Moderate",
     "website_link":"https://atcoder.jp/"
 },
+    {
+        "id":25,
+        "Website":"ATcoder", 
+        "level":"Moderate",
+        "interview_preparations":"Moderate",
+        "website_link":"https://atcoder.jp/"
+         
+    },
+    {
+        "id":10,
+        "Website":"Codeforces", 
+        "level":"moderate",
+        "interview_preparations":"moderate",
+        "website_link":"https://www.codeforces.com/dashboard"
+  },
+{
+        "id":26,
+        "Website":"codePen Challenge", 
+        "level":"Moderate",
+        "interview_preparations":"",
+        "website_link":"https://codepen.io/challenges"    
+    },
+     {
+        "id":25,
+        "Website":"javapoint", 
+        "level":"Moderate",
+        "interview_preparations":"Moderate",
+        "website_link":"https://www.javatpoint.com"
+         
+    },
+{
+        "id":25,
+        "Website":"InterviewBit", 
+        "level":"beginner",
+        "Interviev_preparations":"",
+        "contest":"Beginner",
+       "website_link" : "https://www.interviewbit.com/"
+    },
+{
+        "id":25,
+        "Website":"geeksforgeeks", 
+        "level":"beginner",
+        "interview_preparations":"Begineer",
+        "website_link":"https://www.geeksfoegeeks.com/dashboard"
+         
+    }
 ]
