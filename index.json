@@ -207,4 +207,20 @@
         "interview_preparations":"",
         "website_link":"https://codepen.io/challenges"    
     },
+     {
+        "id":25,
+        "Website":"javapoint", 
+        "level":"Moderate",
+        "interview_preparations":"Moderate",
+        "website_link":"https://www.javatpoint.com"
+         
+    },
+{
+        "id":25,
+        "Website":"InterviewBit", 
+        "level":"beginner",
+        "Interviev_preparations":"",
+        "contest":"Beginner",
+       "website_link" : "https://www.interviewbit.com/"
+    }
 ]
