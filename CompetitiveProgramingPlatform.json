@@ -83,5 +83,12 @@
         "level":"advance",
         "Interviev_prepations":"advance",
     	"websitelink":"https://atcoder.jp/"
+    },
+    {
+    "id":"11",
+        "Website":"codestudio powered by Coding Ninja", 
+        "level":"beginner",
+        "Interviev_prepations":"advance",
+    	"websitelink":"https://www.codingninjas.com/codestudio"
     }
 ]
