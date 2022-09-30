@@ -191,13 +191,21 @@
         "interview_preparations":"Moderate",
         "website_link":"https://www.hackerrank.com"
          
-    }
+    },
      {
         "id":24,
         "Website":"codeforces", 
         "level":"Moderate",
         "interview_preparations":"Moderate",
         "website_link":"https://www.codeforces.com"
+         
+    },
+    {
+        "id":25,
+        "Website":"Edabit", 
+        "level":"Moderate",
+        "interview_preparations":"Moderate",
+        "website_link":"https://edabit.com/"
          
     }
 ]
