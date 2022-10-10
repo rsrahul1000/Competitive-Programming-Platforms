@@ -1,280 +1,265 @@
 [
     {
-        "id":0,
-        "Website":"HackkerRank", 
-        "level":"beginner",
-        "interview_preparations":"Begineer",
-        "website_link":"https://www.hackerrank.com/dashboard"
-         
+        "id": 0,
+        "Website": "HackkerRank",
+        "level": "beginner",
+        "interview_preparations": "Begineer",
+        "website_link": "https://www.hackerrank.com/dashboard"
     },
     {
-        "id":1,
-        "Website":"HackerEarth",
-        "level":"Beginner",
-        "interviev_prepations":"advance",
-      "website_link":"https://www.hackerearth.com/for-developers"
+        "id": 1,
+        "Website": "HackerEarth",
+        "level": "Beginner",
+        "interviev_prepations": "advance",
+        "website_link": "https://www.hackerearth.com/for-developers"
     },
     {
-        "id":2,
-        "Website":"Codechef", 
-        "level":"advance",
-        "interviev_preparations":"Advance",  
-        "website_link":"https://www.codechef.com/"
-     },
-{
-        "id":3,
-        "Website":"Codeforces", 
-        "level":"advance",
-        "interview_preparations":"",
-        "website_link":"http://codeforces.com/"
+        "id": 2,
+        "Website": "Codechef",
+        "level": "advance",
+        "interviev_preparations": "Advance",
+        "website_link": "https://www.codechef.com/"
     },
     {
-        "id":4,
-        "Website":"Exercism", 
-        "level":"beginner",
-        "interview_preparations":"",
-        "website_link":"https://exercism.org/"
-    },
-   {
-        "id":5,
-        "Website":"GeeksForGeeks", 
-        "level":"Beginner/Intermediate",
-        "interviev_preparations":"",
-        "website_link":"https://practice.geeksforgeeks.org/"
-    },
-   
-    {
-        "id":6,
-        "Website":"Leetcode", 
-        "level":"beginner",
-        "interview_preparations":"",
-        "website_link":"https://leetcode.com/"
+        "id": 3,
+        "Website": "Codeforces",
+        "level": "advance",
+        "interview_preparations": "",
+        "website_link": "http://codeforces.com/"
     },
     {
-        "id":7,
-        "Website":"SPOJ", 
-        "level":"beginner",
-        "Interviev_preparations":"",
-        "contest":"Beginner",
-       "website_link" : "https://www.spoj.com/"
-         
+        "id": 4,
+        "Website": "Exercism",
+        "level": "beginner",
+        "interview_preparations": "",
+        "website_link": "https://exercism.org/"
     },
-       
-   {
-   
-        "id":8,
-        "Website":"Codeacademy", 
-        "level":"beginner",
-        "interviev_preparations":"",
-        "website_link":"https://www.codecademy.com/"
-    },
-   {
-   
-        "id":9,
-        "Website":"InterviewBit", 
-        "level":"all levels beginner, intermediate, advanced",
-        "interviev_preparations":"all levels",
-        "website_link":"https://www.interviewbit.com/practice/"
-   },
-
-    
     {
-        "id":10,
-        "Website":"HackkerRank", 
-        "level":"beginner",
-        "Interviev_prepations":"",
-    	"website_link":"https://atcoder.jp/" 
-     },
-      
-    {
-        "id":11,
-        "Website":"Codechef", 
-        "level":"beginner",
-        "Interviev_prepations":"",
-    	"website_link":"https://www.codechef.com/problems/INTEST"
-
-    }, 
-    
-    {
-        "id":12,
-        "Website":"Pepcoding", 
-        "level":"Advance",
-        "interview_preparations":"Advance",
-        "website_link":"https://www.pepcoding.com/"   
+        "id": 5,
+        "Website": "GeeksForGeeks",
+        "level": "Beginner/Intermediate",
+        "interviev_preparations": "",
+        "website_link": "https://practice.geeksforgeeks.org/"
     },
 
-  {
-        "id":13,
-        "Website":"Edabit", 
-        "level":"All levels",
-        "Interviev_prepations":"",
-    	"website_link":"https://edabit.com/"     
+    {
+        "id": 6,
+        "Website": "Leetcode",
+        "level": "beginner",
+        "interview_preparations": "",
+        "website_link": "https://leetcode.com/"
+    },
+    {
+        "id": 7,
+        "Website": "SPOJ",
+        "level": "beginner",
+        "Interviev_preparations": "",
+        "contest": "Beginner",
+        "website_link": "https://www.spoj.com/"
+    },
 
-    },
-    
     {
-        "id":14,
-        "Website":"Coding Ninjas",
-        "level":"Beginner",
-        "interviev_prepations":"all level",
-      "website_link":"https://www.codingninjas.com/"
+        "id": 8,
+        "Website": "Codeacademy",
+        "level": "beginner",
+        "interviev_preparations": "",
+        "website_link": "https://www.codecademy.com/"
     },
-  {
-        "id":15,
-        "Website":"GreekforGreeks",
-        "level":"Beginner",
-        "interviev_prepations":"advance",
-      "website_link":"https://www.geeksforgeeks.org/c-programming-language/"
+    {
+        "id": 9,
+        "Website": "InterviewBit",
+        "level": "all levels beginner, intermediate, advanced",
+        "interviev_preparations": "all levels",
+        "website_link": "https://www.interviewbit.com/practice/"
+    },
 
+    {
+        "id": 10,
+        "Website": "HackkerRank",
+        "level": "beginner",
+        "Interviev_prepations": "",
+        "website_link": "https://atcoder.jp/"
     },
-    
-{
-        "id":16,
-        "Website":"geektastic",
-        "level":"Beginner",
-        "interviev_prepations":"Moderate",
-        "website_link":"https://geektastic.com/"
 
+    {
+        "id": 11,
+        "Website": "Codechef",
+        "level": "beginner",
+        "Interviev_prepations": "",
+        "website_link": "https://www.codechef.com/problems/INTEST"
+    },
+
+    {
+        "id": 12,
+        "Website": "Pepcoding",
+        "level": "Advance",
+        "interview_preparations": "Advance",
+        "website_link": "https://www.pepcoding.com/"
+    },
+
+    {
+        "id": 13,
+        "Website": "Edabit",
+        "level": "All levels",
+        "Interviev_prepations": "",
+        "website_link": "https://edabit.com/"
+    },
+
+    {
+        "id": 14,
+        "Website": "Coding Ninjas",
+        "level": "Beginner",
+        "interviev_prepations": "all level",
+        "website_link": "https://www.codingninjas.com/"
     },
     {
-        
-        "id":17,
-        "Website":"Codewars",
-        "level":"Beginner",
-        "interviev_prepations":"Moderate",
-        "website_link":"https://www.codewars.com/"
-    }, 
-    {
-        
-        "id":18,
-        "Website":"LeetCode",
-        "level":"Beginner",
-        "interviev_prepations":"Moderate",
-        "website_link":"https://leetcode.com"
+        "id": 15,
+        "Website": "GreekforGreeks",
+        "level": "Beginner",
+        "interviev_prepations": "advance",
+        "website_link": "https://www.geeksforgeeks.org/c-programming-language/"
     },
+
     {
-        
-        "id":19,
-        "Website":"LintCode",
-        "level":"Beginner",
-        "interviev_prepations":"Moderate",
-        "website_link":"https://www.lintcode.com/"
+        "id": 16,
+        "Website": "geektastic",
+        "level": "Beginner",
+        "interviev_prepations": "Moderate",
+        "website_link": "https://geektastic.com/"
     },
     {
-        
-        "id":20,
-        "Website":"Geeks for Geeks",
-        "level":"Beginner",
-        "interviev_prepations":"High",
-        "website_link":"https://www.geeksforgeeks.org/"
+        "id": 17,
+        "Website": "Codewars",
+        "level": "Beginner",
+        "interviev_prepations": "Moderate",
+        "website_link": "https://www.codewars.com/"
     },
     {
-        
-        "id":21,
-        "Website":"Geektastic",
-        "level":"Beginner",
-        "interviev_prepations":"Moderate",
-        "website_link":"https://geektastic.com/"
-    },
-  {
-        "id":22,
-        "Website":"SPOJ", 
-        "level":"beginner",
-        "Interviev_preparations":"",
-        "contest":"Beginner",
-       "website_link" : "https://www.spoj.com/"
+        "id": 18,
+        "Website": "LeetCode",
+        "level": "Beginner",
+        "interviev_prepations": "Moderate",
+        "website_link": "https://leetcode.com"
     },
     {
-        "id":23,
-        "Website":"HackkerRank", 
-        "level":"Moderate",
-        "interview_preparations":"Moderate",
-        "website_link":"https://www.hackerrank.com"
-         
-    },
-     {
-        "id":24,
-        "Website":"codeforces", 
-        "level":"Moderate",
-        "interview_preparations":"Moderate",
-        "website_link":"https://www.codeforces.com"
-         
-    },
-{
-    "id":25,
-    "Website":"AtCoder",
-    "level":"Moderate",
-    "interview_preparation":"Moderate",
-    "website_link":"https://atcoder.jp/"
-},
-    {
-        "id":25,
-        "Website":"ATcoder", 
-        "level":"Moderate",
-        "interview_preparations":"Moderate",
-        "website_link":"https://atcoder.jp/"
-         
+        "id": 19,
+        "Website": "LintCode",
+        "level": "Beginner",
+        "interviev_prepations": "Moderate",
+        "website_link": "https://www.lintcode.com/"
     },
     {
-        "id":10,
-        "Website":"Codeforces", 
-        "level":"moderate",
-        "interview_preparations":"moderate",
-        "website_link":"https://www.codeforces.com/dashboard"
-  },
-{
-        "id":26,
-        "Website":"codePen Challenge", 
-        "level":"Moderate",
-        "interview_preparations":"",
-        "website_link":"https://codepen.io/challenges"    
-    },
-     {
-        "id":25,
-        "Website":"javapoint", 
-        "level":"Moderate",
-        "interview_preparations":"Moderate",
-        "website_link":"https://www.javatpoint.com"
-         
-    },
-{
-        "id":25,
-        "Website":"InterviewBit", 
-        "level":"beginner",
-        "Interviev_preparations":"",
-        "contest":"Beginner",
-       "website_link" : "https://www.interviewbit.com/"
-    },
-{
-        "id":25,
-        "Website":"geeksforgeeks", 
-        "level":"beginner",
-        "interview_preparations":"Begineer",
-        "website_link":"https://www.geeksfoegeeks.com/dashboard"
-         
+        "id": 20,
+        "Website": "Geeks for Geeks",
+        "level": "Beginner",
+        "interviev_prepations": "High",
+        "website_link": "https://www.geeksforgeeks.org/"
     },
     {
-        "id":26,
-        "Website":"geeksforgeeks", 
-        "leve2":"Easy",
-        "interview_preparations":"Begineer",
-        "website_link":"https://www.geeksfoegeeks.com/dashboard"
-         
-    }
-    {
-        "id":26,
-        "Website":"HackkerRank", 
-        "level":"beginner",
-        "interview_preparations":"Begineer",
-        "website_link":"https://www.hackerrank.com/dashboard"
-         
+        "id": 21,
+        "Website": "Geektastic",
+        "level": "Beginner",
+        "interviev_prepations": "Moderate",
+        "website_link": "https://geektastic.com/"
     },
- {
-        "id":27,
-        "Website":"Top Coder Challenges", 
-        "level":"beginner",
-        "interview_preparations":"Begineer",
-        "website_link":"https://www.topcoder.com/challenges"
-         
+    {
+        "id": 22,
+        "Website": "SPOJ",
+        "level": "beginner",
+        "Interviev_preparations": "",
+        "contest": "Beginner",
+        "website_link": "https://www.spoj.com/"
+    },
+    {
+        "id": 23,
+        "Website": "HackkerRank",
+        "level": "Moderate",
+        "interview_preparations": "Moderate",
+        "website_link": "https://www.hackerrank.com"
+    },
+    {
+        "id": 24,
+        "Website": "codeforces",
+        "level": "Moderate",
+        "interview_preparations": "Moderate",
+        "website_link": "https://www.codeforces.com"
+    },
+    {
+        "id": 25,
+        "Website": "AtCoder",
+        "level": "Moderate",
+        "interview_preparation": "Moderate",
+        "website_link": "https://atcoder.jp/"
+    },
+    {
+        "id": 25,
+        "Website": "ATcoder",
+        "level": "Moderate",
+        "interview_preparations": "Moderate",
+        "website_link": "https://atcoder.jp/"
+    },
+    {
+        "id": 10,
+        "Website": "Codeforces",
+        "level": "moderate",
+        "interview_preparations": "moderate",
+        "website_link": "https://www.codeforces.com/dashboard"
+    },
+    {
+        "id": 26,
+        "Website": "codePen Challenge",
+        "level": "Moderate",
+        "interview_preparations": "",
+        "website_link": "https://codepen.io/challenges"
+    },
+    {
+        "id": 25,
+        "Website": "javapoint",
+        "level": "Moderate",
+        "interview_preparations": "Moderate",
+        "website_link": "https://www.javatpoint.com"
+    },
+    {
+        "id": 25,
+        "Website": "InterviewBit",
+        "level": "beginner",
+        "Interviev_preparations": "",
+        "contest": "Beginner",
+        "website_link": "https://www.interviewbit.com/"
+    },
+    {
+        "id": 25,
+        "Website": "geeksforgeeks",
+        "level": "beginner",
+        "interview_preparations": "Begineer",
+        "website_link": "https://www.geeksfoegeeks.com/dashboard"
+    },
+    {
+        "id": 26,
+        "Website": "geeksforgeeks",
+        "leve2": "Easy",
+        "interview_preparations": "Begineer",
+        "website_link": "https://www.geeksfoegeeks.com/dashboard"
+    },
+    {
+        "id": 26,
+        "Website": "HackkerRank",
+        "level": "beginner",
+        "interview_preparations": "Begineer",
+        "website_link": "https://www.hackerrank.com/dashboard"
+    },
+    {
+        "id": 27,
+        "Website": "Top Coder Challenges",
+        "level": "beginner",
+        "interview_preparations": "Begineer",
+        "website_link": "https://www.topcoder.com/challenges"
+    },
+    {
+        "id": 28,
+        "Website": "Interviewbit",
+        "level": "All Levels",
+        "Interview_prepations": "advanced",
+        "websitelink": "https://www.interviewbit.com/"
     }
 ]
